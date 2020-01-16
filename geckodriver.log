@@ -1,0 +1,193 @@
+Reading profile /etc/firejail/firefox.profile
+Reading profile /etc/firejail/firefox-common.profile
+Reading profile /etc/firejail/firefox-common-addons.inc
+Reading profile /etc/firejail/disable-common.inc
+Reading profile /etc/firejail/disable-devel.inc
+Reading profile /etc/firejail/disable-interpreters.inc
+Reading profile /etc/firejail/disable-programs.inc
+Reading profile /etc/firejail/whitelist-common.inc
+Reading profile /etc/firejail/whitelist-var-common.inc
+Parent pid 15058, child pid 15059
+Warning: skipping pango for private /etc
+Warning: skipping asound.conf for private /etc
+Warning: skipping pki for private /etc
+Warning: skipping crypto-policies for private /etc
+Warning fcopy: skipping /etc/alternatives/vi.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.da.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/fakeroot.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/faked.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.da.1.gz, cannot find inode
+Private /etc installed in 110.95 ms
+Post-exec seccomp protector enabled
+Child process initialized in 218.47 ms
+
+Parent is shutting down, bye...
+1578492430502	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q2z8zz7fSn2F"
+Reading profile /etc/firejail/firefox.profile
+Reading profile /etc/firejail/firefox-common.profile
+Reading profile /etc/firejail/firefox-common-addons.inc
+Reading profile /etc/firejail/disable-common.inc
+Reading profile /etc/firejail/disable-devel.inc
+Reading profile /etc/firejail/disable-interpreters.inc
+Reading profile /etc/firejail/disable-programs.inc
+Reading profile /etc/firejail/whitelist-common.inc
+Reading profile /etc/firejail/whitelist-var-common.inc
+Parent pid 15100, child pid 15101
+Warning: skipping pango for private /etc
+Warning: skipping asound.conf for private /etc
+Warning: skipping pki for private /etc
+Warning: skipping crypto-policies for private /etc
+Warning fcopy: skipping /etc/alternatives/vi.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.da.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/fakeroot.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/faked.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.da.1.gz, cannot find inode
+Private /etc installed in 105.15 ms
+Post-exec seccomp protector enabled
+Seccomp list in: @clock,@cpu-emulation,@debug,@module,@obsolete,@raw-io,@reboot,@resources,@swap,acct,add_key,bpf,fanotify_init,io_cancel,io_destroy,io_getevents,io_setup,io_submit,ioprio_set,kcmp,keyctl,mount,name_to_handle_at,nfsservctl,ni_syscall,open_by_handle_at,personality,pivot_root,process_vm_readv,ptrace,remap_file_pages,request_key,setdomainname,sethostname,syslog,umount,umount2,userfaultfd,vhangup,vmsplice, check list: @default-keep, prelist: adjtimex,clock_adjtime,clock_settime,settimeofday,modify_ldt,lookup_dcookie,perf_event_open,process_vm_writev,delete_module,finit_module,init_module,_sysctl,afs_syscall,create_module,get_kernel_syms,getpmsg,putpmsg,query_module,security,sysfs,tuxcall,uselib,ustat,vserver,ioperm,iopl,kexec_load,kexec_file_load,reboot,set_mempolicy,migrate_pages,move_pages,mbind,swapon,swapoff,acct,add_key,bpf,fanotify_init,io_cancel,io_destroy,io_getevents,io_setup,io_submit,ioprio_set,kcmp,keyctl,mount,name_to_handle_at,nfsservctl,open_by_handle_at,personality,pivot_root,process_vm_readv,ptrace,remap_file_pages,request_key,setdomainname,sethostname,syslog,umount2,userfaultfd,vhangup,vmsplice,
+]0;firejail /usr/bin/firefox -marionette -foreground -no-remote -profile /tmp/rust_mozprofile.q2z8zz7fSn2F Child process initialized in 250.49 ms
+
+(firefox:30): Gtk-WARNING **: 19:37:10.851: Locale not supported by C library.
+	Using the fallback 'C' locale.
+ALSA lib pcm_dmix.c:1099:(snd_pcm_dmix_open) unable to open slave
+
+Parent is shutting down, bye...
+Reading profile /etc/firejail/firefox.profile
+Reading profile /etc/firejail/firefox-common.profile
+Reading profile /etc/firejail/firefox-common-addons.inc
+Reading profile /etc/firejail/disable-common.inc
+Reading profile /etc/firejail/disable-devel.inc
+Reading profile /etc/firejail/disable-interpreters.inc
+Reading profile /etc/firejail/disable-programs.inc
+Reading profile /etc/firejail/whitelist-common.inc
+Reading profile /etc/firejail/whitelist-var-common.inc
+Parent pid 15250, child pid 15251
+Warning: skipping pango for private /etc
+Warning: skipping asound.conf for private /etc
+Warning: skipping pki for private /etc
+Warning: skipping crypto-policies for private /etc
+Warning fcopy: skipping /etc/alternatives/vi.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.da.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/fakeroot.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/faked.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.da.1.gz, cannot find inode
+Private /etc installed in 104.45 ms
+Post-exec seccomp protector enabled
+Child process initialized in 249.63 ms
+
+Parent is shutting down, bye...
+1578492497249	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nhZNwtB6oMVD"
+Reading profile /etc/firejail/firefox.profile
+Reading profile /etc/firejail/firefox-common.profile
+Reading profile /etc/firejail/firefox-common-addons.inc
+Reading profile /etc/firejail/disable-common.inc
+Reading profile /etc/firejail/disable-devel.inc
+Reading profile /etc/firejail/disable-interpreters.inc
+Reading profile /etc/firejail/disable-programs.inc
+Reading profile /etc/firejail/whitelist-common.inc
+Reading profile /etc/firejail/whitelist-var-common.inc
+Parent pid 15293, child pid 15294
+Warning: skipping pango for private /etc
+Warning: skipping asound.conf for private /etc
+Warning: skipping pki for private /etc
+Warning: skipping crypto-policies for private /etc
+Warning fcopy: skipping /etc/alternatives/vi.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.da.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/fakeroot.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/faked.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.da.1.gz, cannot find inode
+Private /etc installed in 98.98 ms
+Post-exec seccomp protector enabled
+Seccomp list in: @clock,@cpu-emulation,@debug,@module,@obsolete,@raw-io,@reboot,@resources,@swap,acct,add_key,bpf,fanotify_init,io_cancel,io_destroy,io_getevents,io_setup,io_submit,ioprio_set,kcmp,keyctl,mount,name_to_handle_at,nfsservctl,ni_syscall,open_by_handle_at,personality,pivot_root,process_vm_readv,ptrace,remap_file_pages,request_key,setdomainname,sethostname,syslog,umount,umount2,userfaultfd,vhangup,vmsplice, check list: @default-keep, prelist: adjtimex,clock_adjtime,clock_settime,settimeofday,modify_ldt,lookup_dcookie,perf_event_open,process_vm_writev,delete_module,finit_module,init_module,_sysctl,afs_syscall,create_module,get_kernel_syms,getpmsg,putpmsg,query_module,security,sysfs,tuxcall,uselib,ustat,vserver,ioperm,iopl,kexec_load,kexec_file_load,reboot,set_mempolicy,migrate_pages,move_pages,mbind,swapon,swapoff,acct,add_key,bpf,fanotify_init,io_cancel,io_destroy,io_getevents,io_setup,io_submit,ioprio_set,kcmp,keyctl,mount,name_to_handle_at,nfsservctl,open_by_handle_at,personality,pivot_root,process_vm_readv,ptrace,remap_file_pages,request_key,setdomainname,sethostname,syslog,umount2,userfaultfd,vhangup,vmsplice,
+]0;firejail /usr/bin/firefox -marionette -foreground -no-remote -profile /tmp/rust_mozprofile.nhZNwtB6oMVD Child process initialized in 234.18 ms
+
+(firefox:30): Gtk-WARNING **: 19:38:17.577: Locale not supported by C library.
+	Using the fallback 'C' locale.
+ALSA lib pcm_dmix.c:1099:(snd_pcm_dmix_open) unable to open slave
+
+Parent is shutting down, bye...
+Reading profile /etc/firejail/firefox.profile
+Reading profile /etc/firejail/firefox-common.profile
+Reading profile /etc/firejail/firefox-common-addons.inc
+Reading profile /etc/firejail/disable-common.inc
+Reading profile /etc/firejail/disable-devel.inc
+Reading profile /etc/firejail/disable-interpreters.inc
+Reading profile /etc/firejail/disable-programs.inc
+Reading profile /etc/firejail/whitelist-common.inc
+Reading profile /etc/firejail/whitelist-var-common.inc
+Parent pid 15992, child pid 15993
+Warning: skipping pango for private /etc
+Warning: skipping asound.conf for private /etc
+Warning: skipping pki for private /etc
+Warning: skipping crypto-policies for private /etc
+Warning fcopy: skipping /etc/alternatives/vi.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.da.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/fakeroot.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/faked.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.da.1.gz, cannot find inode
+Private /etc installed in 188.85 ms
+Post-exec seccomp protector enabled
+Child process initialized in 343.41 ms
+
+Parent is shutting down, bye...
+1578492961709	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewKS3aE"
+Reading profile /etc/firejail/firefox.profile
+Reading profile /etc/firejail/firefox-common.profile
+Reading profile /etc/firejail/firefox-common-addons.inc
+Reading profile /etc/firejail/disable-common.inc
+Reading profile /etc/firejail/disable-devel.inc
+Reading profile /etc/firejail/disable-interpreters.inc
+Reading profile /etc/firejail/disable-programs.inc
+Reading profile /etc/firejail/whitelist-common.inc
+Reading profile /etc/firejail/whitelist-var-common.inc
+Parent pid 16035, child pid 16036
+Warning: skipping pango for private /etc
+Warning: skipping asound.conf for private /etc
+Warning: skipping pki for private /etc
+Warning: skipping crypto-policies for private /etc
+Warning fcopy: skipping /etc/alternatives/vi.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/vi.da.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/fakeroot.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/faked.sv.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ru.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.pl.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.ja.1.gz, cannot find inode
+Warning fcopy: skipping /etc/alternatives/ex.da.1.gz, cannot find inode
+Private /etc installed in 94.54 ms
+Post-exec seccomp protector enabled
+Seccomp list in: @clock,@cpu-emulation,@debug,@module,@obsolete,@raw-io,@reboot,@resources,@swap,acct,add_key,bpf,fanotify_init,io_cancel,io_destroy,io_getevents,io_setup,io_submit,ioprio_set,kcmp,keyctl,mount,name_to_handle_at,nfsservctl,ni_syscall,open_by_handle_at,personality,pivot_root,process_vm_readv,ptrace,remap_file_pages,request_key,setdomainname,sethostname,syslog,umount,umount2,userfaultfd,vhangup,vmsplice, check list: @default-keep, prelist: adjtimex,clock_adjtime,clock_settime,settimeofday,modify_ldt,lookup_dcookie,perf_event_open,process_vm_writev,delete_module,finit_module,init_module,_sysctl,afs_syscall,create_module,get_kernel_syms,getpmsg,putpmsg,query_module,security,sysfs,tuxcall,uselib,ustat,vserver,ioperm,iopl,kexec_load,kexec_file_load,reboot,set_mempolicy,migrate_pages,move_pages,mbind,swapon,swapoff,acct,add_key,bpf,fanotify_init,io_cancel,io_destroy,io_getevents,io_setup,io_submit,ioprio_set,kcmp,keyctl,mount,name_to_handle_at,nfsservctl,open_by_handle_at,personality,pivot_root,process_vm_readv,ptrace,remap_file_pages,request_key,setdomainname,sethostname,syslog,umount2,userfaultfd,vhangup,vmsplice,
+]0;firejail /usr/bin/firefox -marionette -foreground -no-remote -profile /tmp/rust_mozprofilewKS3aE Child process initialized in 243.52 ms
+
+(firefox:30): Gtk-WARNING **: 19:46:02.039: Locale not supported by C library.
+	Using the fallback 'C' locale.
+ALSA lib pcm_dmix.c:1099:(snd_pcm_dmix_open) unable to open slave
+
+Parent is shutting down, bye...
+Invalid port. Exiting...
